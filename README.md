@@ -8,5 +8,6 @@ Press "up" to make the fighter fly up. Press "down" to make the fighter fly up.p
 make the fighter fly left. Press "right" to make the fighter fly right. Press R to restart the game.
 
 ## Game Starts
-
+<img src="https://github.com/myishh/AirplaneGame/blob/master/src/images/GameStart.png"></img>
 ## Game ends
+<img src="https://github.com/myishh/AirplaneGame/blob/master/src/images/GameEnd.png"></img>
